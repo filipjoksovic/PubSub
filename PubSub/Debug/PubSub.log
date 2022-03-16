@@ -1,0 +1,12 @@
+﻿  Engine.cpp
+C:\Users\Filip\source\repos\PubSub\PubSub\Engine.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Filip\source\repos\PubSub\Utility\GenericList.h(11,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\PubSub\Engine.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(3,39): warning C4091: 'typedef ': ignored on left of 'Topic' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(4,37): warning C4091: 'typedef ': ignored on left of 'Type' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(11,2): warning C4091: 'typedef ': ignored on left of 'Measurment' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\PubSub\Engine.cpp(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Filip\source\repos\PubSub\PubSub\Engine.cpp(14,30): warning C4081: expected 'newline'; found ';'
+C:\Users\Filip\source\repos\PubSub\PubSub\Engine.cpp(66,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Filip\source\repos\PubSub\TCPHandler\TCPHandler.cpp(29): warning C4715: 'Send': not all control paths return a value
+  PubSub.vcxproj -> C:\Users\Filip\source\repos\PubSub\Debug\PubSub.exe

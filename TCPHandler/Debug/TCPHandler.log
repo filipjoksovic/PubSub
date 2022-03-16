@@ -1,0 +1,5 @@
+﻿  TCPHandler.cpp
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(3,39): warning C4091: 'typedef ': ignored on left of 'Topic' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(4,37): warning C4091: 'typedef ': ignored on left of 'Type' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(11,2): warning C4091: 'typedef ': ignored on left of 'Measurment' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(30,2): error C2065: 'cout': undeclared identifier

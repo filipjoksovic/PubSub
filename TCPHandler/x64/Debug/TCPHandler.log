@@ -1,0 +1,11 @@
+﻿  TCPHandler.cpp
+C:\Users\Filip\source\repos\PubSub\Utility\Message.h(6,40): warning C4091: 'typedef ': ignored on left of 'Signal' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Message.h(7,51): warning C4091: 'typedef ': ignored on left of 'Type' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Message.h(14,2): warning C4091: 'typedef ': ignored on left of 'Message' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\TCPHandler\TCPHandler.cpp(8,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Filip\source\repos\PubSub\TCPHandler\TCPHandler.cpp(29): warning C4715: 'Send': not all control paths return a value
+TCPHandler.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function "bool __cdecl Receive(unsigned __int64,char *,unsigned __int64)" (?Receive@@YA_N_KPEAD0@Z)
+TCPHandler.obj : error LNK2019: unresolved external symbol __imp_send referenced in function "bool __cdecl Send(unsigned __int64,char *)" (?Send@@YA_N_KPEAD@Z)
+TCPHandler.obj : error LNK2019: unresolved external symbol __imp_WSAGetLastError referenced in function "bool __cdecl Receive(unsigned __int64,char *,unsigned __int64)" (?Receive@@YA_N_KPEAD0@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Filip\source\repos\PubSub\x64\Debug\TCPHandler.exe : fatal error LNK1120: 4 unresolved externals

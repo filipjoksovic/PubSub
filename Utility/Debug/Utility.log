@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Filip\source\repos\PubSub\Utility\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(3,39): warning C4091: 'typedef ': ignored on left of 'Topic' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(4,37): warning C4091: 'typedef ': ignored on left of 'Type' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Measurement.h(11,2): warning C4091: 'typedef ': ignored on left of 'Measurment' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\LinkedList.h(11,2): warning C4091: 'typedef ': ignored on left of 'LinkedList' when no variable is declared
+C:\Users\Filip\source\repos\PubSub\Utility\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Filip\source\repos\PubSub\Utility\Source.cpp(6,13): warning C4101: 'list': unreferenced local variable
+  Utility.vcxproj -> C:\Users\Filip\source\repos\PubSub\Debug\Utility.exe
